@@ -1,0 +1,23 @@
+to use this 
+
+=====================================================================================================
+just copy this link and put in google (because i already host it in hikaru)
+
+https://pacific-chamber-69302.herokuapp.com/
+=====================================================================================================
+
+
+
+OR 
+
+*1 go to command prompt and write
+
+cd (the path you put the folder in) for example cd desktop/Todolist
+
+*2 write nodemon app.js (if you have node.js)
+
+*3 go to chrome and write localhost:3000
+
+
+
+
